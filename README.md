@@ -1,6 +1,6 @@
 # Hello, I'm krolyxon. 
 
-<img align="right" height="220px" alt="GIF" src="https://c.tenor.com/XXAXt1WWm3YAAAAi/pepe-hack-hack.gif" />
+<img align="center" height="220px" alt="GIF" src="https://c.tenor.com/XXAXt1WWm3YAAAAi/pepe-hack-hack.gif" />
 
 ### About Me
 I am a computer science student who loves free and open-source software.
