@@ -7,6 +7,7 @@ I am a computer science student who loves free and open-source software.
 - 💬 &nbsp;Ask me about anything related to Linux.
 - 📫 &nbsp;How to reach me: [@krolyxon:matrix.org](matrix.org)
 - 🖥️ &nbsp;Visit my website: [krolyxon.vern.cc](https://krolyxon.vern.cc)
+
 ![Counter](https://komarev.com/ghpvc/?username=krolyxon&color=D69300&style=flat-square)
 ---
 ![Stats](https://github-readme-stats.vercel.app/api?username=krolyxon&theme=vision-friendly-dark&show_icons=true)
