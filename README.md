@@ -1,4 +1,4 @@
-# Hello, I'm krolyxon. 
+# Hello, I'm krolyxon (vi/vim). 
 
 ### About Me
 I am a computer science student who loves free and open-source software.
