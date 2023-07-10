@@ -15,6 +15,6 @@ fn main() {
         website: String::from("https://krolyxon.tildevarsh.in"),
     };
     
-    println!("{:?}", me);
+    println!("{:#?}", me);
 }
 ```
