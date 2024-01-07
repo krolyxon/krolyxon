@@ -12,7 +12,7 @@ fn main() {
         name: String::from("Krolyxon"),
         languages: String::from("C, Rust, Bash"),
         fav_lang: String::from("Rust 🦀 ❤️"),
-        website: String::from("https://krolyxon.tildevarsh."),
+        website: String::from("https://krolyxon.github.io"),
     };
     
     println!("{:#?}", me);
