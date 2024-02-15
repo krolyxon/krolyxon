@@ -10,7 +10,7 @@ fn main() {
 
     let me = Me {
         name: String::from("Krolyxon"),
-        languages: String::from("C, Rust, Bash"),
+        languages: String::from("C, Rust, Java, Bash"),
         fav_lang: String::from("Rust 🦀 ❤️"),
         website: String::from("https://krolyxon.github.io"),
     };
