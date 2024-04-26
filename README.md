@@ -6,6 +6,7 @@ fn main() {
         languages: String,
         fav_lang: String,
         website: String,
+        working_on: String,
     }
 
     let me = Me {
@@ -13,6 +14,7 @@ fn main() {
         languages: String::from("C, Rust, Java, Bash"),
         fav_lang: String::from("Rust 🦀 ❤️"),
         website: String::from("https://krolyxon.github.io"),
+        working_on: String::from("github.com/krolyxon/rmptui"),
     };
     
     println!("{:#?}", me);
