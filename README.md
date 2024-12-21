@@ -1,29 +1,30 @@
-```rust
-#[derive(Debug)]
-struct Me {
-    name: &'static str,
-    operating_system: &'static str,
-    languages: &'static [&'static str],
-    technologies: &'static [&'static str],
-    website: &'static str,
-    working_on: &'static str,
-}
+# 👋 Hello, I'm Krolyxon
 
-fn main() {
-    let me = Me {
-        name: "Krolyxon",
-        operating_system: "Arch Linux",
-        languages: &["C", "Rust", "Javascript", "Java", "Bash"],
-        technologies: &["ReactJS", "NodeJS", "TailwindCSS"],
-        website: "https://krolyxon.github.io",
-        working_on: "A really goodlooking website",
-    };
+[![Profile Views](https://komarev.com/ghpvc/?username=krolyxon&color=blue)](https://github.com/krolyxon)
+[![GitHub followers](https://img.shields.io/github/followers/krolyxon?label=Follow&style=social)](https://github.com/krolyxon)
 
-    println!("{:#?}", me);
-}
-```
+## 🚀 About Me
+- 🔭 I’m currently working on something really cool
+- 🌱 I’m currently learning Rust and advanced ReactJS
+- 💬 Ask me about Rust, C, JavaScript, Lua, and Bash
+- 📫 How to reach me: [krolyxon.github.io](https://krolyxon.github.io)
 
+## 🛠️ Technologies & Tools
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<!-- <div> -->
-<!--     <img src="https://github-readme-stats.vercel.app/api?username=krolyxon&show_icons=true&hide_border=true&bg_color=181825&text_color=cdd6f4&icon_color=f5c2e7&hide_title=true&include_all_commits=true&count_private=true&ring_color=f5c2e7&border_radius=8" style="margin-bottom: 20px;" /> -->
-<!-- </div> -->
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+
+## 📊 GitHub Stats
+![Krolyxon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krolyxon&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krolyxon&layout=compact&theme=radical)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krolyxon&theme=radical)
