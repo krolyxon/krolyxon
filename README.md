@@ -14,7 +14,7 @@ fn main() {
     let me = Me {
         name: String::from("Krolyxon"),
         languages: String::from("C, Rust, Java, Lua, Javascript, Bash"),
-        website: String::from("https://krolyxon.github.io"),
+        website: String::from("https://krolyxon.xyz"),
         working_on: String::from("Life"),
     };
     
