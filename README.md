@@ -15,7 +15,7 @@ fn main() {
         name: String::from("Krolyxon"),
         languages: String::from("C, Rust, Java, Lua, Javascript, Bash"),
         website: String::from("https://krolyxon.xyz"),
-        working_on: String::from("Life"),
+        working_on: String::from("My own website"),
     };
     
     println!("{:#?}", me);
