@@ -40,6 +40,8 @@ fn main() {
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![SSH](https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=ssh&logoColor=white)
 
+> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
 [![Profile Views](https://komarev.com/ghpvc/?username=krolyxon&color=blue)](https://github.com/krolyxon)
 [![GitHub followers](https://img.shields.io/github/followers/krolyxon?label=Follow&style=social)](https://github.com/krolyxon)
