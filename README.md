@@ -4,5 +4,5 @@
 </p>
 
 <h3 align="center">
-  <a href="https://krolyxon.xyz">krolyxon.xyz</a>
+  <a href="https://krolyxon.com">krolyxon.com</a>
 </h3>
