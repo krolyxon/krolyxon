@@ -8,5 +8,5 @@
 </h3>
 
 <p align="center">
-   <a href="https://git.krolyxon.com"><code>[ Source of Truth ]</code></a>
+   <a href="https://git.krolyxon.com/krolyxon"><code>[ Source of Truth ]</code></a>
 </p>
